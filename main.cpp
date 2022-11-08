@@ -123,7 +123,7 @@
      Rhead=Rhead+Rheadplus;
      glRotatef(Rhead,0.0,1.0,0.0);
      Rheadplus=0;
-     // end turn left-right for fan head
+     // end turn left-right for fan head SARA
 
      glTranslatef(0.0,0.0,-3.0);
      cylinder(4,4,6);// silinder belakang kipas
