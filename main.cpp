@@ -1,6 +1,6 @@
  #include <windows.h>
     #include <GL/glut.h>
-// nurulaziza
+// nurulaziza KITA UBAH AWAL MAAF SALAH
 //@nrlaaziza
     //buat 3 buah method
     void cylinder(float rbase,float rtop,float height);
