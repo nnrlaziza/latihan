@@ -24,7 +24,7 @@
     bool RightTurn=true;
     bool speed1=true,speed2=false,speed3=false,speed4=false,speed5=false;
 
-    //seting pencahayaan
+    //seting pencahayaan KITA LANJUT BAGIAN SATU
     //GLfloat ambient_light[]={0.3,0.3,0.45,1.0};
     GLfloat ambient_light[]={0.0,0.0,0.45,1.0};//GL_LIGHT0, GL_LIGHT1, GL_LIGHT2, GL_LIGHT3
     //GLfloat  source_light[]={0.9,0.8,0.8,1.0};
